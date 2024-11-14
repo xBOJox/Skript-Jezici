@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.lead {
+    font-size: 1.25rem;
+    color: #666;
+}
